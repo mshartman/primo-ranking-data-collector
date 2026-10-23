@@ -1,0 +1,16 @@
+{
+  "run_id": "RUN_B",
+  "config_id": "CONFIG_B",
+  "started_at_utc": "2030-01-02T12:00:00+00:00",
+  "completed_at_utc": "2030-01-02T12:01:00+00:00",
+  "vid": "SYNTHETIC:VIEW",
+  "profiles": {"local": {"tab": "LOCAL", "scope": "LOCAL_SCOPE"}},
+  "depth": 2,
+  "page_size": 2,
+  "query_count": 1,
+  "queries_sha256": "synthetic-query-hash",
+  "request_count": 1,
+  "successful_requests": 1,
+  "failed_requests": 0
+}
+
