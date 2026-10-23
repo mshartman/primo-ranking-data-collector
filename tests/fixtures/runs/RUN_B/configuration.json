@@ -1,0 +1,5 @@
+{
+  "config_id": "CONFIG_B",
+  "field_boosts": {"example_field": 5}
+}
+
