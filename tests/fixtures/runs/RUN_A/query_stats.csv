@@ -1,0 +1,3 @@
+profile,query_id,query,requested_depth,returned,total,total_local,total_central,local_in_window,central_in_window,other_context_in_window,pages_requested,pages_succeeded,pages_failed
+local,Q001,synthetic sample topic,2,2,2,2,0,2,0,0,1,1,0
+
