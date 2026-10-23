@@ -1,0 +1,25 @@
+{
+  "config_id": "B0_BASELINE",
+  "captured_on": "YYYY-MM-DD",
+  "field_boosts": {
+    "title": null,
+    "creator": null,
+    "subject": null,
+    "toc": null,
+    "isbn": null,
+    "language": null,
+    "additional_title": null
+  },
+  "date_boosts": [],
+  "resource_type_boosts": {},
+  "institution_boost": null,
+  "blending": {
+    "central_index_factor": null,
+    "local_factor": null,
+    "local_number_of_results": null,
+    "local_position": null,
+    "local_qualification": null
+  },
+  "notes": "Document the settings visible in Primo VE before collecting this run."
+}
+
