@@ -1,0 +1,4 @@
+run_id,config_id,captured_at_utc,profile,query_id,query,rank,score,record_key,record_id,context,title,creator,resource_type,publication_year
+RUN_B,CONFIG_B,2030-01-02T12:00:10+00:00,local,Q001,synthetic sample topic,1,12.0,L:synthetic-001,synthetic-001,L,Synthetic Record One,Example Author,book,2024
+RUN_B,CONFIG_B,2030-01-02T12:00:10+00:00,local,Q001,synthetic sample topic,2,7.0,L:synthetic-003,synthetic-003,L,Synthetic Record Three,Example Author,book,2018
+
