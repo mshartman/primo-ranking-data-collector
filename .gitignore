@@ -1,0 +1,35 @@
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+api_key.txt
+*.key
+
+# Institution-specific working files
+queries.csv
+scope_profiles.json
+configurations/current.json
+configurations/*.local.json
+
+# Collected and aggregated research data
+/runs/
+/aggregates/
+/outputs/
+/data/
+/test_outputs/
+*.sqlite
+*.db
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Editors and operating systems
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
