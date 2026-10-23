@@ -1,0 +1,4 @@
+query_id,query,raw_query,query_source,query_intent,variant_group,field,precision,expected_record_id,dataset_partition,notes
+Q001,example broad topic,,constructed,broad_topic,,any,contains,,calibration,Replace all example rows with a fixed representative query set
+Q002,Example Known Title,,constructed,known_item_book,,title,contains,,holdout,Synthetic example only
+
