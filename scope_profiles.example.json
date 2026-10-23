@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "local": {
+      "tab": "YOUR_LOCAL_TAB_CODE",
+      "scope": "YOUR_LOCAL_SCOPE_CODE",
+      "description": "Local records only; use to isolate configurable Local ranking changes."
+    },
+    "everything": {
+      "tab": "YOUR_BLENDED_TAB_CODE",
+      "scope": "YOUR_BLENDED_SCOPE_CODE",
+      "description": "Blended Local and CDI results; use for blending and final-candidate tests."
+    }
+  }
+}
+
